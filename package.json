@@ -12,8 +12,12 @@
     "expo": "~55.0.8",
     "expo-status-bar": "~55.0.4",
     "react": "19.2.0",
+<<<<<<< HEAD
     "react-native": "0.83.2",
     "react-native-paper": "^5.15.2"
+=======
+    "react-native": "0.83.2"
+>>>>>>> 105e392c9e4c061c6dc730d94cb5de27cd62f43a
   },
   "private": true
 }

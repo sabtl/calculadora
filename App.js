@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { Button } from 'react-native-paper';
@@ -166,3 +167,12 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
 });
+=======
+import Count from './components/count'
+
+export default function App() {
+  return (
+    <Count />
+  );
+}
+>>>>>>> 105e392c9e4c061c6dc730d94cb5de27cd62f43a
